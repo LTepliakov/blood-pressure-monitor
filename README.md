@@ -1,3 +1,6 @@
+
+This is a fork of https://github.com/joergmlpts/blood-pressure-monitor to add support for Microlife BP A7 Touch BT tonometer under Linux.
+
 # Microlife Bluetooth and USB Blood Pressure Monitors for Linux, MacOS and Windows
 
 This repository provides Python code to download readings via Bluetooth from the Microlife BP3GY1-2N blood pressure monitor sold at Costco stores. USB devices, specifically the Microlife model BP3GX1-5X, purchased at Costco in February 2015, are also supported.
